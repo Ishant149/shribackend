@@ -1,0 +1,14 @@
+target
+.git
+.gitignore
+.mvn
+.idea
+.vscode
+*.iml
+*.class
+logs
+*.log
+.classpath
+.project
+Dockerfile
+.dockerignore
